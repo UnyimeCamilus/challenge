@@ -4,12 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
- 
-/* .main-wrapper{
-    background: url(/img/greek-vase\ bg.jpeg);
-} */
-
-
 
 header{
     display: flex;
@@ -42,25 +36,17 @@ padding: 1rem 2rem;
 color: #fff;
 }
 
-/* .navbar ul{
-    display: flex;
-    
-} */
 
 .navbar ul li{
     list-style-type: none;
-    /* margin-right: 50px; */
+    
 }
-/* .img{
-    margin-top: 20px;
-} */
 
 .house{
     display: flex;
-    /* margin: 100px; */
-    margin: 2rem 3rem 2rem 5rem;
+    margin: 2rem 3rem 3rem 5rem;
     align-items:center ;
-    margin-top: 50px;
+    margin-top: 80px;
 
 }
 
@@ -70,15 +56,15 @@ color: #fff;
     font-weight: 700;
     color: #717171;
     letter-spacing: 42%;
+
 }
 
 .house h3{
     font-family: 'Poppins';
     font-size:52px ;
     font-weight:700 ;
-    width: 500px;
-    /* height: 289px; */
-    /* line-height: 100px; */
+    width: 400px;
+    line-height: 70px;
     color: #000000;
 }
 .hImg img{
@@ -116,12 +102,10 @@ color: #fff;
 }
 
 .black {
-    /* height: 290px; */
     position: relative;
     background-color: #0078E7 ;
-    /* width: 300px; */
+    width: 650px;
     padding: 80px 100px;
-    /* margin-top: 90px; */
     display: flex;
     align-items: center;
     justify-content: center;
