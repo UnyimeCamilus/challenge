@@ -24,7 +24,6 @@ header{
 ul {
     display: flex;
     gap: 3rem;
-    
 }
 .btnHeader{
 background: #0078E7;
