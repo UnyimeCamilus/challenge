@@ -38,6 +38,7 @@ border: #0078E7;
 height: 50px;
 padding: 1rem 2rem;
 color: #fff;
+font-family:'poppins';
 }
 
 .navbar ul li{
@@ -86,6 +87,7 @@ color: #fff;
     padding: 1rem 3rem;
     color: #fff;
     margin-top: 2rem;
+    font-family:'poppins';
 }
 
 
